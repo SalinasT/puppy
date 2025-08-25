@@ -12,4 +12,5 @@ func Barks() string {
 
 func main() {
 	fmt.Println(Bark())
+	fmt.Println(Barks())
 }
